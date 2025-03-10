@@ -1,4 +1,4 @@
-AIzaSyBPc5vY9wBXrMTqyl-uoH0BG9GAyADjOHI
+AIzaSyBPc5vY9wBXrMTqyl-iiiiiGAyADjOHI
 
 code
 curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=GEMINI_API_KEY" \
