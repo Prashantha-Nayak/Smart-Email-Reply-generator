@@ -111,9 +111,5 @@ Contributions are always welcome! 🙌
 
 ---
 
-## **📞 Contact**  
-For any queries, reach out to me at:  
-📧 [Your Email]  
-🔗 [GitHub Profile](https://github.com/Prashantha-Nayak)  
 
 🔥 If you like this project, don't forget to ⭐ the repository! 🚀✨  
